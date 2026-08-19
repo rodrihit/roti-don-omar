@@ -1,0 +1,6 @@
+{
+  "name": "SmartFood Don Omar",
+  "description": "Ecosistema digital gastronómico y SaaS multi-tenant para la rotisería Don Omar de San Benito, Entre Ríos, con menú digital, carrito, seguimiento en tiempo real, app de cadetes, panel de cocina, panel administrativo e integración de IA.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
